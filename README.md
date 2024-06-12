@@ -1,16 +1,20 @@
-# dictionary_app
+# Dictionary App
 
-A new Flutter project.
+"This Dictionary app shows some words that you can read the meanings. The app is powered by the Dictionary API and other packages for functionality." <br>
 
-## Getting Started
+## The Libraries and Technologies
+-**MVVM (Model-View-ViewModel) Architecture**:MVVM is an architectural pattern where Model represents data and business logic, View represents UI components, and ViewModel acts as an intermediary, facilitating data flow and user interactions in a decoupled manner. <br>
 
-This project is a starting point for a Flutter application.
+-**Dictionary API**: The Dictionary API  provides some words and informations about that.[Dictionary API](https://dictionaryapi.dev) <br>
 
-A few resources to get you started if this is your first Flutter project:
+-**Dio** => [Dio](https://pub.dev/packages/dio) <br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-**audioplayers** => [AudioPlayers](https://pub.dev/packages/audioplayers)<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## The App
+
+
+<img src="https://github.com/berkeyilmaz1/flutter_Dictionary/assets/115240560/c0a9c449-d3d0-4eb3-acc7-240f6cc49f34" height="700">
+
+
+
